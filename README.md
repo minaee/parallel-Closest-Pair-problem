@@ -1,5 +1,5 @@
 # parallel-Closest-Pair-problem
-an parallel algorithm for finding Closest pair in 2-D space
+a parallel algorithm for finding Closest pair in 2-D space
 
 
 You should have OPEN-MPI standard installed on your system. version 1.8.1 or later.
